@@ -138,8 +138,6 @@ body
   > div.arco-image-preview
   > div.arco-image-preview-wrapper
   > div.arco-image-preview-img-container {
-  width: 50%;
-  height: 50%;
-  margin: 25% 25%;
+  scale: 50%;
 }
 </style>
